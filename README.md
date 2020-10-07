@@ -1,6 +1,6 @@
 # MP3-Programacion
 
-EJ1 Daus ---> EJ1
+EJ1 Daus : Daus ---> EJ1
 
-EJ2 Daus ---> EJ2
+EJ2 Daus : Daus ---> EJ2
 
